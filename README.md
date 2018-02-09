@@ -1,5 +1,4 @@
 # vmwarecode-hackathon-test
-Test Repository for VMware {code} Experience Hackathons
 
 This file is the README.md file that will explain the purpose of this repo, and what you need to do to gain access to specific files.
 
