@@ -1,12 +1,7 @@
 # vmwarecode-hackathon-test
 
-This file is the README.md file that will explain the purpose of this repo, and what you need to do to gain access to specific files.
+Welcome to the VMware {code} GitHub page! VMware {code} is the fastest growing DevOps program, offering APIs SDKs, Workspaces, and exlusive member events. To join the VMware {code} and receive access to our Slack channel, sign up here: https://code.vmware.com/join 
 
-What This Repository Includes:
+Our repositories include code samples for Ansible, Docker, Kubernetes, vSphere, vSAN, vRA, and more. Samples are added on a weekly basis, so check back soon for the latest solutions.
 
-1. Hackathon Best Practices - documemntation on how to organize, resource, and run an effective VMware {code} Experience Hackathon
-2. Training Templates - examples of predefined tracks for VMware {code} Experience Hackathons, if you choose to have tracks rather than an open-themed hackathon
-3. Information on who to contact in order to run a VMWare {code} Experience Hackathon 
-
-
-If you would like access to this repository, please go to https://code.vmware.com/join and message us in the GitHub slack channel. Thanks!
+VMware {code} also delivers packaged hackathons as a part of the VMware {code} Experience program. These VMware {code} hackathons can be delivered anywhere in the world, and include a hackathon instruction manual, training templates, branded giveaways, a private GitHub repository, and additional support from the VMware {code} team. If you're interested in leading a hackathon, please email code@vmware.com to get started.
