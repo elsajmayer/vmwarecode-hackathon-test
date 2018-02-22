@@ -4,4 +4,4 @@ Welcome to the VMware {code} GitHub page! VMware {code} is the fastest growing D
 
 Our repositories include code samples for Ansible, Docker, Kubernetes, vSphere, vSAN, vRA, and more. Samples are added on a weekly basis, so check back soon for the latest solutions.
 
-VMware {code} also delivers packaged hackathons as a part of the VMware {code} Experience program. These VMware {code} hackathons can be delivered anywhere in the world, and include a hackathon instruction manual, training templates, branded giveaways, a private GitHub repository, and additional support from the VMware {code} team. If you're interested in leading a hackathon, please email <code@vmware.com>(code@vmware.com) to get started.
+VMware {code} also delivers packaged hackathons as a part of the VMware {code} Experience program. These VMware {code} hackathons can be delivered anywhere in the world, and include a hackathon instruction manual, training templates, branded giveaways, a private GitHub repository, and additional support from the VMware {code} team. If you're interested in leading a hackathon, please email <code@vmware.com> to get started.
